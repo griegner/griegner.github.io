@@ -1,4 +1,5 @@
 ---
+title: about
 layout: about
 permalink: /
 author_profile: true

@@ -5,7 +5,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: <img src='assets/images/nifti.gif' width='160'>
+title: <img src='https://griegner.github.io/assets/images/nifti.gif' width='160'>
 title_separator: ''
 name: Gabriel Riegner
 email: 'griegner@ucsd.edu'
@@ -39,6 +39,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-gallery-generator
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
