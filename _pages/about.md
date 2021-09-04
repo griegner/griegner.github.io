@@ -21,4 +21,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
 
 ---
- {% include carousel.html height='75' unit='%' duration='7' %}
+<details>
+	<summary><b>photography</b></summary>
+		
+  {% include carousel.html height='75' unit='%' duration='7' %}
+
+</details>
