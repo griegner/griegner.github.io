@@ -7,22 +7,33 @@ redirect_from:
   - /about/
 ---
 
-#### about
+##### About
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a research technician at the [Brain Mechanisms of Pain and Health Lab](https://www.zeidanlab.com/) at UC San Diego and previously a neurosience undergraduate student at USC and the [Brain and Music Lab](https://dornsife.usc.edu/labs/brainandmusic/). 
+
+My research experience combines cognitive and computational neuroscience using methodologies that model how the brain constructs the experience of pain and music. Through exposure to scientific computing tools, I've since found an interest in the development of software that makes these resources accessible and reproducible across research settings.
 
 
-#### publications
+##### Publications
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+> 2021  
+[Prefrontal cortico-thalamic regulation of pain by mindfulness meditation](https://www.sciencedirect.com/science/article/abs/pii/S1526590021001425)     
+`*G Riegner*, J Baumgartner, G Posey, A Jinich, Y Jung, F Zeidan, N Gonzalez, J Birenbaum.`   
+*The Journal of Pain*
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
+> 2020  
+[Neurophysiological mechanisms supporting mindfulness meditation–based pain relief: an updated review](assets/publications/2020-jinich.pdf)    
+`A Jinich, E Garland, J Baumgartner, N Gonzalez, *G Riegner*, J Birenbaum, L Case,  F Zeidan.`  
+*Current Pain and Headache Reports*  
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+> 2019  
+[Recognition memory for melody](https://dornsife.usc.edu/assets/sites/753/docs/Past_Students_with_Honors/2019_Honors_Thesis/gabriel_riegner_final_thesis.pdf)  
+`G Riegner`  
+*USC undergraduate neuroscience program*
 
 ---
 <details>
-	<summary><b>photography</b></summary>
+	<summary><b>Photography</b></summary>
 		
   {% include carousel.html height='75' unit='%' duration='7' %}
 
