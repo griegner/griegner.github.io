@@ -11,7 +11,7 @@ redirect_from:
 ---
 I'm a research technician at the [Brain Mechanisms of Pain and Health Lab](https://www.zeidanlab.com/) at UC San Diego and previously a neurosience undergraduate student at USC and the [Brain and Music Lab](https://dornsife.usc.edu/labs/brainandmusic/). 
 
-My research experience combines cognitive and computational neuroscience using methodologies that model how the brain constructs the experience of pain and music. Through exposure to scientific computing tools, I've since found an interest in the development of software that makes these resources accessible and reproducible across research settings.
+My research experience is in cognitive neuroscience, using experimental and computational methods to model how the brain constructs the experiences of both pain and music. Through exposure to traditional and emerging data science tools, I've since found an interest in the development of software to makes these resources accessible and reproducible across research settings.
 
 
 ##### Publications
