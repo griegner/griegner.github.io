@@ -13,9 +13,10 @@ I'm a research technician at the [Brain Mechanisms of Pain and Health Lab](https
 
 My research experience is in cognitive neuroscience, using experimental and computational methods to model how the brain constructs the experiences of both pain and music. Through exposure to traditional and emerging data science tools, I've since found an interest in the development of software to makes these resources accessible and reproducible across research settings.
 
-
-##### Publications
 ---
+
+<details markdown=block>
+<summary markdown=span>**Publications**</summary>
 > 2021  
 [Prefrontal cortico-thalamic regulation of pain by mindfulness meditation](https://www.sciencedirect.com/science/article/abs/pii/S1526590021001425)     
 `*G Riegner*, J Baumgartner, G Posey, A Jinich, Y Jung, F Zeidan, N Gonzalez, J Birenbaum.`   
@@ -31,10 +32,15 @@ My research experience is in cognitive neuroscience, using experimental and comp
 `G Riegner`  
 *USC undergraduate neuroscience program*
 
+</details>
+
 ---
+
 <details>
 	<summary><b>Photography</b></summary>
 		
   {% include carousel.html height='75' unit='%' duration='7' %}
 
 </details>
+
+---
