@@ -19,12 +19,13 @@ My research experience is in cognitive neuroscience, using experimental and comp
 <summary markdown=span>**Publications**</summary>
 > 2021  
 [Prefrontal cortico-thalamic regulation of pain by mindfulness meditation](https://www.sciencedirect.com/science/article/abs/pii/S1526590021001425)     
-`*G Riegner*, J Baumgartner, G Posey, A Jinich, Y Jung, F Zeidan, N Gonzalez, J Birenbaum.`   
+<code><b>G Riegner</b>, J Baumgartner, G Posey, A Jinich, Y Jung, F Zeidan, N Gonzalez, J Birenbaum.</code>  
 *The Journal of Pain*
+
 
 > 2020  
 [Neurophysiological mechanisms supporting mindfulness meditation–based pain relief: an updated review](assets/publications/2020-jinich.pdf)    
-`A Jinich, E Garland, J Baumgartner, N Gonzalez, *G Riegner*, J Birenbaum, L Case,  F Zeidan.`  
+<code>A Jinich, E Garland, J Baumgartner, N Gonzalez, <b>G Riegner</b>, J Birenbaum, L Case,  F Zeidan.</code>  
 *Current Pain and Headache Reports*  
 
 > 2019  
