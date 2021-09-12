@@ -17,11 +17,6 @@ My research experience is in cognitive neuroscience, using experimental and comp
 
 <details markdown=block>
 <summary markdown=span>**Publications**</summary>
-> 2021  
-[Prefrontal cortico-thalamic regulation of pain by mindfulness meditation](https://www.sciencedirect.com/science/article/abs/pii/S1526590021001425)     
-<code><b>G Riegner</b>, J Baumgartner, G Posey, A Jinich, Y Jung, F Zeidan, N Gonzalez, J Birenbaum.</code>  
-*The Journal of Pain*
-
 
 > 2020  
 [Neurophysiological mechanisms supporting mindfulness meditation–based pain relief: an updated review](assets/publications/2020-jinich.pdf)    
@@ -30,7 +25,7 @@ My research experience is in cognitive neuroscience, using experimental and comp
 
 > 2019  
 [Recognition memory for melody](https://dornsife.usc.edu/assets/sites/753/docs/Past_Students_with_Honors/2019_Honors_Thesis/gabriel_riegner_final_thesis.pdf)  
-`G Riegner`  
+<code><b>G Riegner</b></code>  
 *USC undergraduate neuroscience program*
 
 </details>
