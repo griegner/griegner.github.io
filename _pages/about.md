@@ -24,7 +24,7 @@ My research experience is in cognitive neuroscience, using experimental and comp
 *Current Pain and Headache Reports*  
 
 > 2019  
-[Recognition memory for melody](https://dornsife.usc.edu/assets/sites/753/docs/Past_Students_with_Honors/2019_Honors_Thesis/gabriel_riegner_final_thesis.pdf)  
+[Recognition memory for melody](assets/publications/2019-riegner.pdf)  
 <code><b>G Riegner</b></code>  
 *USC undergraduate neuroscience program*
 
