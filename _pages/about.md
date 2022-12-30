@@ -18,7 +18,7 @@ I am a PhD student at the Halicioğlu Data Science Institute at UC San Diego, an
 <small>
 <b>2022</b>  
 <!---->
-<b>G Riegner</b>, G Posey, V Oliva, Y Jung, W Mobley, F Zeidan.  
+<b>G Riegner</b>, G Posey, V Oliva, Y Jung, W Mobley, F Zeidan.
 <a href='https://journals.lww.com/pain/_layouts/15/oaks.journals/downloadpdf.aspx?an=00006396-990000000-00127'>
 Disentangling self from pain: mindfulness meditation-induced pain relief is driven by thalamic-default mode network decoupling.</a>
 <i>PAIN</i><br>  
