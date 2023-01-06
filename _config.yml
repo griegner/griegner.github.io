@@ -14,6 +14,7 @@ url: 'https://griegner.github.io'
 github_username: griegner
 minimal_mistakes_skin: default
 search: false
+google_analytics: G-TC1K0Q943S
 
 # Build settings
 markdown: kramdown
