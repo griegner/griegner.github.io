@@ -5,6 +5,10 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include google-analytics.html %}
+  {% endif %}
+
   <div class="archive">
     {{ content }}
   </div>
