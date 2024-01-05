@@ -16,6 +16,13 @@ I am a PhD student under Professor Armin Schwartzman at the Halicioğlu Data Sci
 ##### publications
 
 <small>
+<b>2023</b>  
+<!---->
+L Khatib, J Dean, V Oliva, <b>G Riegner</b>, N Gonzalez, J Birenbaum, G Cruanes, J Miller, M Patterson, H Kim, K Chakravarthy, F Zeidan.
+<a href='https://www.nature.com/articles/s41386-023-01766-2'>
+The role of endogenous opioids in mindfulness-meditation and sham mindfulness-meditation for the direct alleviation of evoked chronic low back pain: a randomized clinical trial.</a>
+<i>Neuropsychopharmacology, Nature</i><br>  
+<!---->
 <b>2022</b>  
 <!---->
 <b>G Riegner</b>, G Posey, V Oliva, Y Jung, W Mobley, F Zeidan.
