@@ -9,7 +9,7 @@ redirect_from:
 
 ##### about
 ---
-I am a PhD student at the Halicioğlu Data Science Institute at UC San Diego, and have a bachelor's degree in neuroscience from the University of Southern California. My interests are in developing analysis methods and open-source software for brain imaging with applications in pain research.
+I am a PhD student under Professor Armin Schwartzman at the Halicioğlu Data Science Institute at UC San Diego, and have a bachelor's degree in neuroscience from the University of Southern California. My research focuses on brain imaging statistics, including the development of new analysis methods and open-source software. 
 
 ---
 
