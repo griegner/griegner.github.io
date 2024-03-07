@@ -21,7 +21,7 @@ I am a PhD student working with Professor Armin Schwartzman at the Halicioğlu D
 L Khatib, J Dean, V Oliva, <b>G Riegner</b>, N Gonzalez, J Birenbaum, G Cruanes, J Miller, M Patterson, H Kim, K Chakravarthy, F Zeidan.
 <a href='https://www.nature.com/articles/s41386-023-01766-2'>
 The role of endogenous opioids in mindfulness-meditation and sham mindfulness-meditation for the direct alleviation of evoked chronic low back pain: a randomized clinical trial.</a>
-<i>Neuropsychopharmacology, Nature</i><br>  
+<i>Nature Neuropsychopharmacology</i><br>  
 <!---->
 <b>2022</b>  
 <!---->
