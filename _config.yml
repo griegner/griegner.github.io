@@ -58,7 +58,7 @@ author:
       url: 'https://github.com/griegner'
     - label: email
       icon: fas fa-envelope
-      url: mailto:griegner@ucsd.edu
+      url: mailto:gariegner@ucsd.edu
     - label: cv
       icon: fas fa-kiwi-bird
       url: /assets/cv.pdf
