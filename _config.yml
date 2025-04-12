@@ -53,15 +53,9 @@ author:
   avatar  : /assets/images/bio-photo.jpg
   bio     : UC San Diego
   links:
-    - label: github
-      icon: fab fa-fw fa-github
-      url: 'https://github.com/griegner'
     - label: email
       icon: fas fa-envelope
       url: mailto:gariegner@ucsd.edu
-    - label: cv
-      icon: fas fa-kiwi-bird
-      url: /assets/cv.pdf
 
 category_archive:
   type: liquid

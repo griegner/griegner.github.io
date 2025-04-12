@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
-gem "nokogiri", "~> 1.10.10"
+gem "nokogiri"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
