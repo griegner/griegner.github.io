@@ -56,6 +56,9 @@ author:
     - label: github
       icon: fab fa-fw fa-square-github
       url: 'https://github.com/griegner'
+    - label: linkedin
+      icon: fab fa-fw fa-linkedin
+      url: 'https://www.linkedin.com/in/griegner/'
     - label: email
       icon: fas fa-fw fa-square-envelope
       url: mailto:gariegner@ucsd.edu
