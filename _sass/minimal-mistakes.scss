@@ -38,3 +38,15 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Custom overrides */
+.carousel-link {
+  color: $link-color;
+  cursor: pointer;
+  display: inline;
+  text-decoration: underline;
+
+  &:hover {
+    color: $link-color-hover;
+  }
+}
